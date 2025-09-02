@@ -1,5 +1,11 @@
 # Nucel
 
+> **⚠️ Repository Moved**
+>
+> This repository has been moved to [nucel-cloud/nucel](https://github.com/nucel-cloud/nucel).
+> The old repository at [DonsWayo/nucel](https://github.com/DonsWayo/nucel) is archived.
+>
+> Please update your bookmarks and any references to point to the new location.
 Deploy modern web applications without vendor lock-in. Own your infrastructure. Pay only for what you use.
 
 ## Installation
